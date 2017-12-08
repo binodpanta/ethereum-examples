@@ -3,6 +3,8 @@ This example is based on a react truffle box obtained frmo the Truffle website
 It's not a complete project but shows just how to setup your truffle.js config to deploy to more than one network
 For example, there are no contracts under contracts/ here but I assume you have contracts names AssetToken.sol and Crowdsale.sol respectively
 
+The main point of this example is to show the use of the truffle.js config file to deploy to one or more networks, your contracts.
+
 usually the 'development' network is a testrpc server
 in this example, two servers are setup in the config. 
 
