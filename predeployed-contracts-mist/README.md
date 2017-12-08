@@ -14,9 +14,9 @@ The JSON contains a section called 'abi'. all you need to load this contract in 
 * Go to Contracts tab
 * Click ```Watch Contract```
 * Enter these
- ** Contract Name: Anything but ideally should match name of actual contract
- ** Contract Address: Address t which contrat was deployed by Truffle migrate. This information is printed when you run migrate.
- ** JSON Interface: Here just paste the array value of the ```abi``` key in the build/[YourContract].json file
+** Contract Name: Anything but ideally should match name of actual contract
+** Contract Address: Address t which contrat was deployed by Truffle migrate. This information is printed when you run migrate.
+** JSON Interface: Here just paste the array value of the ```abi``` key in the build/[YourContract].json file
 
 
 That's it! Now you can watch your pre-deployed contract in Mist!
